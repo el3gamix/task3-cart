@@ -1,0 +1,7 @@
+component : 
+	- stateless
+	- stateful
+
+stateful : variable effected by function
+
+useEffect : mount - state change - unMount

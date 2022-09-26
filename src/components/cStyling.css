@@ -1,0 +1,8 @@
+.cStyle {
+    color: yellow;
+}
+button, input {
+    font-size: 36px;
+    padding: 15px;
+    font-weight: bold;
+}
